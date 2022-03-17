@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AdamAtademo
 - 👀 I’m interested in  Java
 - 🌱 I’m currently learning  Java
-- 💞️ I’m looking to collaborate on  projetos na linguagem Java
 - 📫 How to reach me adamatademo@gmail.com
 
 <!---
