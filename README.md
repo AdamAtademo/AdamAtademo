@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdamAtademo
+- 👋 Hi, I’m  Adam
 - 👀 I’m interested in  QA
 - 🌱 I’m currently learning  QA
 - 📫 How to reach me adamatademo@gmail.com
